@@ -1,0 +1,6 @@
+76/1234/13/LTV/1/petrol/5.5/2342/black alsvin/345/2/3/2004
+53/3223/234/LTV/0/petrol/3.4/442/white corolla/20/2/3/2222
+51/345/45/LTV/0/petrol/4.5/3453/black cruiser/45/2/3/2000
+57/234/23/HTV/1/petrol/4.5/34533/silver bolan/2/2/3/2000
+95/324/3.4/jeep/1/petrol/3.4/345/brown civic/444/3/2/2004
+575/123/22/rickshaw/0/petrol/22/2342/mercedes/3333/2/3/2021
